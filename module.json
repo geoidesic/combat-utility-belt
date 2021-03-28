@@ -19,7 +19,7 @@
   "bugs": "https://github.com/death-save/combat-utility-belt/issues",
   "readme": "https://github.com/death-save/combat-utility-belt/wiki",
   "manifest": "https://raw.githubusercontent.com/geoidesic/combat-utility-belt/award-xp-dialog/module.json",
-  "download": "https://raw.githubusercontent.com/geoidesic/combat-utility-belt/award-xp-dialog/module.zip",
+  "download": "https://raw.githubusercontent.com/geoidesic/combat-utility-belt/award-xp-dialog/combat-utility-belt-award-xp-dialog.zip",
   "scripts": [
     "./library/typewriterjs/core.js", 
     "greensock/dist/gsap.min.js"
